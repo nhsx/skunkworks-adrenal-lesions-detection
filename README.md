@@ -2,17 +2,17 @@
 
 # NHS AI Lab Skunkworks project: Detecting adrenal lesions in CT scans
 
-> A pilot project for the NHS AI (Artificial Intelligence) Lab Skunkworks team, Detecting adrenal lesions on CT scans seeks to augment the detection of adrenal lesions in CT scans using computer vision and deep learning.
+> A pilot project for the NHS AI (Artificial Intelligence) Lab Skunkworks team, this project seeks to augment the detection of adrenal lesions in CT scans using computer vision and deep learning.
 
-Detecting adrenal lesions in CT scans was selected as a project in {DATE SELECTED} following a succesful pitch to the AI Skunkworks problem-sourcing programme.
+Detecting adrenal lesions in CT scans was selected as a project in July 2021 following a succesful pitch to the AI Skunkworks problem-sourcing programme.
 
 ## Intended Use
 
-The work contained in this repository is experimental research and is intended to demonstrate the technical validity of applying deep learning models to CT scans datasets in order to detect adrenal lesions. It is not intended for deployment in a clinical or non-clinical setting without further development and compliance with the [UK Medical Device Regulations 2002](https://www.legislation.gov.uk/uksi/2002/618/contents/made) where the product qualifies as a medical device.
+The work contained in this repository is experimental research and is intended to demonstrate the technical validity of applying deep learning models to CT scan imagery datasets in order to detect adrenal lesions. It is not intended for deployment in a clinical or non-clinical setting without further development and compliance with the [UK Medical Device Regulations 2002](https://www.legislation.gov.uk/uksi/2002/618/contents/made) where the product would qualify as a medical device.
 
 ## Data Protection
 
-This project was subject to a Data Protection Impact Assessment (DPIA) and Data Processing Agreement (DPA), ensuring the protection of the data used in line with the [UK Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) and [UK GDPR](https://ico.org.uk/for-organisations/dp-at-the-end-of-the-transition-period/data-protection-and-the-eu-in-detail/the-uk-gdpr/). No data or trained models are shared in this repository.
+This project was subject to a Data Protection Impact Assessment (DPIA), ensuring the protection of the data used in line with the [UK Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) and [UK GDPR](https://ico.org.uk/for-organisations/dp-at-the-end-of-the-transition-period/data-protection-and-the-eu-in-detail/the-uk-gdpr/). No data or trained models are shared in this repository.
 
 ## Background
 

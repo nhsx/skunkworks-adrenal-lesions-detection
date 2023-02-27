@@ -26,7 +26,7 @@ This repository contains a series of notebooks which implement the data science 
 
 ![K110 pipeline](docs/K110_pipeline.png)
 
-> Further details of the model and results of the analysis are available in the [related publication]().
+> Further details of the model and results of the analysis are available in the [related publication](https://doi.org/10.1101/2023.02.22.23286184).
 
 ## Directory structure
 
